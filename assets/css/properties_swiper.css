@@ -1,0 +1,137 @@
+
+/* Main carousel */
+.properties-swiper {
+  position: relative;
+  padding: 0 1rem 3rem;
+  
+
+  .swiper-slide {
+    width: 100%;
+    height: auto;
+    overflow: visible !important;
+    padding: 0.08rem;
+    display: flex;
+    align-items: stretch;
+  }
+
+  .main-pagination {
+    position: absolute;
+    bottom: 0px !important;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    /* background: rgba(0, 0, 0, 0.4); */
+    width: fit-content;
+    padding: 0.5rem;
+    border-radius: 8px;
+
+    .swiper-pagination-bullet {
+      /* background: #fff; */
+      width: .7rem;
+      height: .7rem;
+      
+    }
+
+    .swiper-pagination-bullet-active{
+      background: var(--secondary-color);
+    }
+  }
+}
+
+
+
+
+
+
+
+.property-images-swiper .swiper-slide {
+  height: 250px;
+}
+
+.property-images-swiper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.property-images-swiper {
+  height: 250px;
+  /* Fixed height for images */
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  /* base state for your inner swiper arrows */
+  .swiper-button-prev,
+  .swiper-button-next {
+    background: rgba(0, 0, 0, 0.4);
+    width: 28px;
+    height: 28px;
+    z-index: 10;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+
+    transition: all 0.3s ease;
+
+    &::after {
+      font-size: 15px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    /* hover state for the button's icon */
+    &:hover::after {
+      color: #ff0000;
+    }
+  }
+}
+
+/* Pagination “bars” */
+.property-images-swiper {
+  .swiper-pagination {
+    position: absolute;
+    bottom: 10px !important;
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    background: rgba(0, 0, 0, 0.4);
+    width: fit-content;
+    padding: 0.5rem;
+    border-radius: 8px;
+  }
+
+  .swiper-pagination-bullet {
+    background: white;
+    opacity: 0.5;
+    width: 8px;
+    height: 8px;
+    width: 25px;
+    height: 5px;
+    background: rgba(255, 255, 255, 0.6);
+    opacity: 1;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+
+    /* hover */
+    &:hover {
+      background: #ff0000;
+    }
+  }
+
+  .swiper-pagination-bullet-active {
+    opacity: 1;
+    background: #ff0000; /* your red */
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "caioldcarvalho/samar-site",
+    "description": "Composer para o site Samar Imobiliaria",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Caio Carvalho",
+            "email": "caioldcarvalho@protonmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "enyo/dropzone": "^5.9",
+        "intervention/image": "^2.7",
+        "joeyrush/better-dd": "^1.4",
+        "twbs/bootstrap": "^5.3"
+    }
+}

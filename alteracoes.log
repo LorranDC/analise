@@ -1,0 +1,856 @@
+
+[2024-12-05 17:47:33]: criado imóvel 11042 por Gabriel.
+Valores: 
+{"id":11042,"cod":"11042","tipo":"Aluguel","categoria":"apartamento","endereco":"teste","numero":"","ap":"","sala":"","CEP":"","bairro":"110","cidade":"1","mapa":"","descricao":"teste","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":4,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"69\":1,\"121\":1}"}
+
+[2024-12-05 17:49:20]: criado imóvel 11044 por Gabriel.
+Valores: 
+{"id":11044,"cod":"11044","tipo":"Aluguel","categoria":"casa","endereco":"","numero":"3","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"teste","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"13\":1,\"106\":1}"}
+
+[2024-12-06 16:35:29]: removido imóvel 11045 por Gabriel.
+Valores: 
+null
+
+[2024-12-06 16:35:32]: removido imóvel 11046 por Gabriel.
+Valores: 
+null
+
+[2024-12-06 16:36:02]: criado imóvel 11047 por Gabriel.
+Valores: 
+{"id":11047,"cod":"11047","tipo":"Vendas","categoria":"casa","endereco":"teste","numero":"3","ap":"34","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"teste","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"67\":1}"}
+
+[2024-12-06 16:48:22]: atualizado imóvel 11047 por Gabriel.
+Valores: 
+{"cod":"11047","tipo":"Vendas","categoria":"casa","endereco":"teste","numero":"3","ap":"34","sala":"","CEP":"","bairro":"176","cidade":"1","mapa":"","descricao":"teste","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":1,"caracteristicas":"{\"67\":1,\"42\":1}"}
+
+[2024-12-06 18:40:39]: criado imóvel 11049 por Gabriel.
+Valores: 
+{"id":11049,"cod":"11049","tipo":"aluguel","categoria":"casa","endereco":"teste","numero":"263","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"teste","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":4,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"72\":1,\"15\":1,\"89\":1,\"47\":1}"}
+
+[2024-12-06 18:51:50]: criado imóvel 11050 por Gabriel.
+Valores: 
+{"id":11050,"cod":"11050","tipo":"Vendas","categoria":"casa","endereco":"teste","numero":"3","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"teste","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"72\":1}"}
+
+[2024-12-06 18:56:13]: criado imóvel 11052 por Gabriel.
+Valores: 
+{"id":11052,"cod":"11052","tipo":"Aluguel","categoria":"casa","endereco":"teste","numero":"40","ap":"","sala":"","CEP":"","bairro":"246","cidade":"2","mapa":"","descricao":"testes","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"72\":1,\"52\":1,\"119\":1,\"21\":1,\"115\":1}"}
+
+[2024-12-06 19:08:53]: criado imóvel 11053 por Gabriel.
+Valores: 
+{"id":11053,"cod":"11053","tipo":"Vendas","categoria":"apartamento","endereco":"teste","numero":"34","ap":"","sala":"","CEP":"","bairro":"246","cidade":"2","mapa":"","descricao":"teste","valor":" 350000.00","valor_a_combinar":0,"destaque":0,"lancamento":0,"videos":"","ativo":1,"indisponivel":1,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"52\":1,\"119\":1,\"21\":1,\"115\":1}"}
+
+[2024-12-06 19:09:30]: atualizado imóvel 11053 por Gabriel.
+Valores: 
+{"cod":"11053","tipo":"Vendas","categoria":"apartamento","endereco":"teste","numero":"34","ap":"","sala":"","CEP":"","bairro":"246","cidade":"1","mapa":"","descricao":"teste","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"52\":1,\"119\":1,\"21\":1,\"115\":1}"}
+
+[2024-12-06 19:29:32]: criado imóvel 11054 por Gabriel.
+Valores: 
+{"id":"11054","cod":"11054","tipo":"Aluguel","categoria":"casa","endereco":"teste","numero":"3","ap":"","sala":"","CEP":"","bairro":"158","cidade":"3","mapa":"","descricao":"teste","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1}"}
+
+[2024-12-06 19:41:07]: criado imóvel 11055 por Gabriel.
+Valores: 
+{"id":"11055","cod":"11055","tipo":"Vendas","categoria":"comercial","endereco":"teste","numero":"45","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"teste ","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"72\":1}"}
+
+[2024-12-07 11:27:53]: criado imóvel 11058 por Gabriel.
+Valores: 
+{"id":"11058","cod":"11058","tipo":"Vendas","categoria":"apartamento","endereco":"aa","numero":"","ap":"","sala":"","CEP":"","bairro":"110","cidade":"1","mapa":"","descricao":"aa","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":4,"garagem":1,"reservado":0,"caracteristicas":"{\"2\":1,\"80\":1}"}
+
+[2024-12-07 11:38:03]: criado imóvel 11059 por Gabriel.
+Valores: 
+{"id":"11059","cod":"11059","tipo":"Vendas","categoria":"casa","endereco":"teste","numero":"3","ap":"","sala":"","CEP":"","bairro":"158","cidade":"3","mapa":"","descricao":"teste","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1}"}
+
+[2024-12-07 11:46:24]: criado imóvel 11060 por Gabriel.
+Valores: 
+{"id":"11060","cod":"11060","tipo":"Vendas","categoria":"chacara\/sitio","endereco":"teste","numero":"","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"teste","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1}"}
+
+[2024-12-09 17:31:02]: removido imóvel 11060 por Gabriel.
+Valores: 
+null
+
+[2024-12-09 17:31:07]: removido imóvel 11059 por Gabriel.
+Valores: 
+null
+
+[2024-12-09 17:31:11]: removido imóvel 11058 por Gabriel.
+Valores: 
+null
+
+[2024-12-09 17:31:15]: removido imóvel 11057 por Gabriel.
+Valores: 
+null
+
+[2024-12-12 19:44:55]: criado imóvel 10050 por Gabriel.
+Valores: 
+{"id":"10050","cod":"10050","tipo":"Vendas","categoria":"casa","endereco":"","numero":"3","ap":"","sala":"","CEP":"","bairro":"158","cidade":"3","mapa":"","descricao":"","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1}"}
+
+[2024-12-12 20:25:34]: removido imóvel 10050 por Gabriel.
+Valores: 
+null
+
+[2024-12-12 20:26:21]: criado imóvel 10050 por Gabriel.
+Valores: 
+{"id":"10050","cod":"10050","tipo":"Vendas","categoria":"casa","endereco":"","numero":"3","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1}"}
+
+[2024-12-12 20:31:38]: criado imóvel 10051 por Gabriel.
+Valores: 
+{"id":"10051","cod":"10051","tipo":"Vendas","categoria":"casa","endereco":"","numero":"3","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1}"}
+
+[2024-12-12 20:33:01]: removido imóvel 10051 por Gabriel.
+Valores: 
+null
+
+[2024-12-12 20:33:05]: removido imóvel 10050 por Gabriel.
+Valores: 
+null
+
+[2024-12-12 20:54:03]: criado imóvel 10052 por Gabriel.
+Valores: 
+{"id":"10052","cod":"10052","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"","valor":" 370000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:00:57]: criado imóvel 10053 por Gabriel.
+Valores: 
+{"id":"10053","cod":"10053","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"","valor":" 370000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:01:48]: removido imóvel 10052 por Gabriel.
+Valores: 
+null
+
+[2024-12-12 21:07:07]: criado imóvel 10054 por Gabriel.
+Valores: 
+{"id":"10054","cod":"10054","tipo":"Vendas","categoria":"casa","endereco":"","numero":"25","ap":"","sala":"","CEP":"","bairro":"227","cidade":"1","mapa":"","descricao":"","valor":" 492220.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":4,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1}"}
+
+[2024-12-12 21:08:36]: criado imóvel 10055 por Gabriel.
+Valores: 
+{"id":"10055","cod":"10055","tipo":"Aluguel","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"103","cidade":"4","mapa":"","descricao":"","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:09:27]: criado imóvel 10056 por Gabriel.
+Valores: 
+{"id":"10056","cod":"10056","tipo":"Aluguel","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"81","cidade":"2","mapa":"","descricao":"","valor":" 2600.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":2,"garagem":1,"reservado":0,"caracteristicas":"{\"33\":1}"}
+
+[2024-12-12 21:10:58]: criado imóvel 10057 por Gabriel.
+Valores: 
+{"id":"10057","cod":"10057","tipo":"Vendas","categoria":"apartamento","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"110","cidade":"1","mapa":"","descricao":"","valor":" 950000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":2,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:18:55]: criado imóvel 10058 por Gabriel.
+Valores: 
+{"id":"10058","cod":"10058","tipo":"Aluguel","categoria":"apartamento","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"227","cidade":"1","mapa":"","descricao":"","valor":" 2000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:19:57]: criado imóvel 10059 por Gabriel.
+Valores: 
+{"id":"10059","cod":"10059","tipo":"Aluguel","categoria":"apartamento","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"246","cidade":"2","mapa":"","descricao":"","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":1,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:20:52]: criado imóvel 10060 por Gabriel.
+Valores: 
+{"id":"10060","cod":"10060","tipo":"Vendas","categoria":"apartamento","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"217","cidade":"1","mapa":"","descricao":"","valor":" 320000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":2,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:21:48]: criado imóvel 10061 por Gabriel.
+Valores: 
+{"id":"10061","cod":"10061","tipo":"Vendas","categoria":"apartamento","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"121","cidade":"6","mapa":"","descricao":"","valor":" 950000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":5,"banheiros":2,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:23:41]: criado imóvel 10062 por Gabriel.
+Valores: 
+{"id":"10062","cod":"10062","tipo":"Vendas","categoria":"terreno","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"","valor":" 350000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:25:09]: criado imóvel 10063 por Gabriel.
+Valores: 
+{"id":"10063","cod":"10063","tipo":"Vendas","categoria":"apartamento","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"158","cidade":"3","mapa":"","descricao":"","valor":" 450000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:26:16]: criado imóvel 10064 por Gabriel.
+Valores: 
+{"id":"10064","cod":"10064","tipo":"Vendas","categoria":"terreno","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"121","cidade":"6","mapa":"","descricao":"","valor":" 4500000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:27:28]: criado imóvel 10065 por Gabriel.
+Valores: 
+{"id":"10065","cod":"10065","tipo":"Vendas","categoria":"terreno","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"249","cidade":"7","mapa":"","descricao":"","valor":" 760000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:29:09]: criado imóvel 10066 por Gabriel.
+Valores: 
+{"id":"10066","cod":"10066","tipo":"Aluguel","categoria":"sala-comercial","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"4","cidade":"1","mapa":"","descricao":"","valor":" 2600.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":1,"banheiros":1,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:30:08]: criado imóvel 10067 por Gabriel.
+Valores: 
+{"id":"10067","cod":"10067","tipo":"Vendas","categoria":"sala-comercial","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"176","cidade":"2","mapa":"","descricao":"","valor":" 950000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":1,"banheiros":2,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:32:49]: criado imóvel 10068 por Gabriel.
+Valores: 
+{"id":"10068","cod":"10068","tipo":"Aluguel","categoria":"sala-comercial","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"110","cidade":"1","mapa":"","descricao":"","valor":" 1500.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-12 21:38:52]: criado imóvel 10069 por Gabriel.
+Valores: 
+{"id":"10069","cod":"10069","tipo":"Aluguel","categoria":"apartamento","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"110","cidade":"1","mapa":"","descricao":"","valor":" 1000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":1,"reservado":0,"caracteristicas":"[]"}
+
+[2024-12-20 15:01:00]: criado imóvel 10070 por Gabriel.
+Valores: 
+{"id":"10070","cod":"10070","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"136","cidade":"2","mapa":"","descricao":"teste","valor":" 950000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":1,"reservado":0,"caracteristicas":"{\"60\":1}"}
+
+[2025-02-06 09:35:56]: criado imóvel 10081 por Gabriel.
+Valores: 
+{"id":"10081","cod":"10081","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"103","cidade":"4","mapa":"","descricao":"","valor":" 1300000.00","valor_a_combinar":1,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":1,"reservado":0,"caracteristicas":"{\"72\":1,\"90\":1}"}
+
+[2025-02-06 09:36:09]: removido imóvel 10077 por Gabriel.
+Valores: 
+{"id":"10077"}
+
+[2025-02-06 09:36:16]: removido imóvel 10078 por Gabriel.
+Valores: 
+{"id":"10078"}
+
+[2025-02-06 09:36:24]: removido imóvel 10079 por Gabriel.
+Valores: 
+{"id":"10079"}
+
+[2025-02-06 09:36:29]: removido imóvel 10080 por Gabriel.
+Valores: 
+{"id":"10080"}
+
+[2025-02-06 10:21:39]: criado imóvel 10082 por Gabriel.
+Valores: 
+{"id":"10082","cod":"10082","tipo":"Aluguel","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"94","cidade":"2","mapa":"","descricao":"","valor":" 1300000.00","valor_a_combinar":0,"destaque":1,"lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"72\":1,\"15\":1,\"2\":1}"}
+
+[2025-02-06 10:21:50]: removido imóvel 10081 por Gabriel.
+Valores: 
+{"id":"10081"}
+
+[2025-03-12 09:46:29]: removido imóvel 11208 por Gabriel GTA.
+Valores: 
+{"id":"11208"}
+
+[2025-03-12 09:46:41]: removido imóvel 11208 por Gabriel GTA.
+Valores: 
+{"id":"11208"}
+
+[2025-03-12 09:47:19]: removido imóvel 11207 por Gabriel GTA.
+Valores: 
+{"id":"11207"}
+
+[2025-03-12 09:49:48]: removido imóvel 11207 por Gabriel GTA.
+Valores: 
+{"id":"11207"}
+
+[2025-03-17 10:04:02]: removido imóvel 11206 por Gabriel GTA.
+Valores: 
+{"id":"11206"}
+
+[2025-03-18 08:36:58]: removido imóvel 11205 por Gabriel GTA.
+Valores: 
+{"id":"11205"}
+
+[2025-03-18 08:37:09]: removido imóvel 11204 por Gabriel GTA.
+Valores: 
+{"id":"11204"}
+
+[2025-03-20 11:39:15]: criado imóvel 11269 por Gabriel GTA.
+Valores: 
+{"id":"11269","cod":"11269","tipo":"Vendas","categoria":"casa","endereco":"sdffhfhfghfgghjghjghjgfhj","numero":"100","ap":"100","sala":"3","CEP":"10.000-000","bairro":"5","cidade":"1","mapa":"","descricao":"gggggggggggggggggggggggggggggggggg","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"lancamento":0,"videos":"","ativo":1,"indisponivel":1,"area_construida":300,"area_terreno":300,"fracao_ideal":0,"quartos":3,"banheiros":3,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2025-03-20 11:40:31]: removido imóvel 11269 por Gabriel GTA.
+Valores: 
+{"id":"11269"}
+
+[2025-03-20 11:40:39]: removido imóvel 11268 por Gabriel GTA.
+Valores: 
+{"id":"11268"}
+
+[2025-03-20 11:40:50]: removido imóvel 11267 por Gabriel GTA.
+Valores: 
+{"id":"11267"}
+
+[2025-03-20 11:40:59]: removido imóvel 11266 por Gabriel GTA.
+Valores: 
+{"id":"11266"}
+
+[2025-03-20 11:41:06]: removido imóvel 11265 por Gabriel GTA.
+Valores: 
+{"id":"11265"}
+
+[2025-03-20 11:41:13]: removido imóvel 11264 por Gabriel GTA.
+Valores: 
+{"id":"11264"}
+
+[2025-03-20 11:41:20]: removido imóvel 11263 por Gabriel GTA.
+Valores: 
+{"id":"11263"}
+
+[2025-03-20 11:41:29]: removido imóvel 11262 por Gabriel GTA.
+Valores: 
+{"id":"11262"}
+
+[2025-03-20 11:41:37]: removido imóvel 11261 por Gabriel GTA.
+Valores: 
+{"id":"11261"}
+
+[2025-03-20 11:41:44]: removido imóvel 11260 por Gabriel GTA.
+Valores: 
+{"id":"11260"}
+
+[2025-03-20 11:41:53]: removido imóvel 11259 por Gabriel GTA.
+Valores: 
+{"id":"11259"}
+
+[2025-03-20 11:43:25]: removido imóvel 11258 por Gabriel GTA.
+Valores: 
+{"id":"11258"}
+
+[2025-03-20 11:43:33]: removido imóvel 11257 por Gabriel GTA.
+Valores: 
+{"id":"11257"}
+
+[2025-03-20 11:43:40]: removido imóvel 11256 por Gabriel GTA.
+Valores: 
+{"id":"11256"}
+
+[2025-03-20 11:43:52]: removido imóvel 11255 por Gabriel GTA.
+Valores: 
+{"id":"11255"}
+
+[2025-03-20 11:43:59]: removido imóvel 11254 por Gabriel GTA.
+Valores: 
+{"id":"11254"}
+
+[2025-03-20 11:44:10]: removido imóvel 11253 por Gabriel GTA.
+Valores: 
+{"id":"11253"}
+
+[2025-03-20 11:44:17]: removido imóvel 11252 por Gabriel GTA.
+Valores: 
+{"id":"11252"}
+
+[2025-03-20 11:45:09]: removido imóvel 11251 por Gabriel GTA.
+Valores: 
+{"id":"11251"}
+
+[2025-03-20 11:45:16]: removido imóvel 11250 por Gabriel GTA.
+Valores: 
+{"id":"11250"}
+
+[2025-03-20 11:45:24]: removido imóvel 11249 por Gabriel GTA.
+Valores: 
+{"id":"11249"}
+
+[2025-03-20 11:45:35]: removido imóvel 11237 por Gabriel GTA.
+Valores: 
+{"id":"11237"}
+
+[2025-03-20 11:45:42]: removido imóvel 11248 por Gabriel GTA.
+Valores: 
+{"id":"11248"}
+
+[2025-03-20 11:46:09]: removido imóvel 11247 por Gabriel GTA.
+Valores: 
+{"id":"11247"}
+
+[2025-03-20 11:46:29]: removido imóvel 11209 por Gabriel GTA.
+Valores: 
+{"id":"11209"}
+
+[2025-03-20 11:46:37]: removido imóvel 11246 por Gabriel GTA.
+Valores: 
+{"id":"11246"}
+
+[2025-03-20 11:46:46]: removido imóvel 11245 por Gabriel GTA.
+Valores: 
+{"id":"11245"}
+
+[2025-03-20 11:47:35]: removido imóvel 11244 por Gabriel GTA.
+Valores: 
+{"id":"11244"}
+
+[2025-03-20 11:48:01]: removido imóvel 11243 por Gabriel GTA.
+Valores: 
+{"id":"11243"}
+
+[2025-03-20 11:50:17]: removido imóvel 11242 por Gabriel GTA.
+Valores: 
+{"id":"11242"}
+
+[2025-03-21 08:29:18]: criado imóvel 11204 por Gabriel GTA.
+Valores: 
+{"id":"11204","cod":"11204","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"173","cidade":"1","mapa":"","descricao":"","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"lancamento":0,"videos":"","ativo":1,"indisponivel":1,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2025-03-27 11:43:36]: criado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"id":"11205","cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"lancamento":0,"videos":"","ativo":1,"indisponivel":1,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:41:50]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":1,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:42:05]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":1,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:43:12]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":1,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:43:55]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:44:26]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:58:11]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:58:38]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:58:59]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 08:59:20]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 09:25:26]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:34:21]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:34:37]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:34:54]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 09:35:12]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 09:35:23]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:35:53]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Vendas","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 09:36:26]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 09:41:36]: atualizado imóvel 11205 por Gabriel GTA.
+Valores: 
+{"cod":"11205","tipo":"Aluguel","categoria":"apartamento","endereco":"kjhkjhkjhkjhkjhjkh","numero":"11111","ap":"111","sala":"1111","CEP":"11.111-111","bairro":"244","cidade":"5","mapa":"","descricao":"ghjgjhgjhghj","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":11111,"area_terreno":1111,"fracao_ideal":1111,"quartos":111,"banheiros":11111,"garagem":0,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"67\":1,\"133\":1}"}
+
+[2025-03-28 09:41:54]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:47:41]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:47:56]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:48:30]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:53:22]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:54:05]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:58:05]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 09:58:28]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:04:41]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:09:14]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:09:25]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:15:00]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:19:07]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:19:38]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:19:53]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:40:04]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:40:31]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:40:49]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:41:44]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:47:56]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 10:48:08]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Aluguel","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-28 11:21:47]: criado imóvel 11206 por Gabriel GTA.
+Valores: 
+{"id":"11206","cod":"11206","tipo":"Aluguel","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"111","cidade":"1","mapa":"","descricao":"","valor":" 55000.00","valor_a_combinar":0,"destaque":0,"lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2025-03-28 11:24:12]: removido imóvel 11206 por Gabriel GTA.
+Valores: 
+{"id":"11206"}
+
+[2025-03-28 11:56:25]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Vendas","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-31 08:43:19]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Vendas","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-03-31 08:43:55]: atualizado imóvel 11145 por Gabriel GTA.
+Valores: 
+{"cod":"11145","tipo":"Vendas","categoria":"terreno","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"224","cidade":"1","mapa":"","descricao":"Dois terrenos lotes 30 e 31 da quadra A com 310 mts quadrados cada lote. Total de 620 mts quadrados. \r\n\r\nExcelente localiza\u00e7\u00e3o (a uma quadra da Universidade Federal), com proximidade da Unidade de Pronto Atendimento (UPA), da sede do Batalh\u00e3o (PM), de academia de gin\u00e1stica e de diversas outras comodidades e facilidades, garante o seu elevado potencial futuro de valoriza\u00e7\u00e3o, especialmente diante da programada futura expans\u00e3o de cursos na referida Universidade. \r\n\r\nTerreno a venda sendo 20m de frente e fundo e 31m nas laterais, com excelente topografia. ","valor":" 180000.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":310,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"[]"}
+
+[2025-03-31 08:50:17]: removido imóvel 11208 por Gabriel GTA.
+Valores: 
+{"id":"11208"}
+
+[2025-03-31 08:50:23]: removido imóvel 11207 por Gabriel GTA.
+Valores: 
+{"id":"11207"}
+
+[2025-03-31 08:50:30]: removido imóvel 11205 por Gabriel GTA.
+Valores: 
+{"id":"11205"}
+
+[2025-03-31 08:50:41]: removido imóvel 11204 por Gabriel GTA.
+Valores: 
+{"id":"11204"}
+
+[2025-04-02 09:18:52]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Vendas","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-04-15 11:52:23]: atualizado imóvel 11217 por Gabriel GTA.
+Valores: 
+{"cod":"11217","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"111","cidade":"1","mapa":"","descricao":"","valor":" 111111111.11","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"16\":1,\"11\":1,\"50\":1}"}
+
+[2025-04-15 11:52:38]: atualizado imóvel 11217 por Gabriel GTA.
+Valores: 
+{"cod":"11217","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"111","cidade":"1","mapa":"","descricao":"","valor":" 111111111.11","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"16\":1,\"11\":1,\"50\":1}"}
+
+[2025-04-16 10:52:31]: atualizado imóvel 11217 por Gabriel GTA.
+Valores: 
+{"cod":"11217","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"111","cidade":"1","mapa":"","descricao":"","valor":" 111111111.11","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"16\":1,\"11\":1,\"50\":1}"}
+
+[2025-04-16 11:07:06]: atualizado imóvel 11217 por Gabriel GTA.
+Valores: 
+{"cod":"11217","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"111","cidade":"1","mapa":"","descricao":"","valor":" 111111111.11","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"16\":1,\"11\":1,\"50\":1}"}
+
+[2025-04-16 11:11:42]: atualizado imóvel 11217 por Gabriel GTA.
+Valores: 
+{"cod":"11217","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"111","cidade":"1","mapa":"","descricao":"","valor":" 111111111.11","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"16\":1,\"11\":1,\"50\":1}"}
+
+[2025-04-16 11:13:21]: atualizado imóvel 11217 por Gabriel GTA.
+Valores: 
+{"cod":"11217","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"111","cidade":"1","mapa":"","descricao":"","valor":" 111111111.11","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":1,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"16\":1,\"11\":1,\"50\":1}"}
+
+[2025-04-17 10:19:27]: removido imóvel 11242 por Gabriel GTA.
+Valores: 
+{"id":"11242"}
+
+[2025-04-17 10:19:34]: removido imóvel 11241 por Gabriel GTA.
+Valores: 
+{"id":"11241"}
+
+[2025-04-17 10:19:41]: removido imóvel 11240 por Gabriel GTA.
+Valores: 
+{"id":"11240"}
+
+[2025-04-17 10:19:48]: removido imóvel 11239 por Gabriel GTA.
+Valores: 
+{"id":"11239"}
+
+[2025-04-17 10:19:54]: removido imóvel 11238 por Gabriel GTA.
+Valores: 
+{"id":"11238"}
+
+[2025-04-17 10:20:01]: removido imóvel 11237 por Gabriel GTA.
+Valores: 
+{"id":"11237"}
+
+[2025-04-17 10:20:08]: removido imóvel 11236 por Gabriel GTA.
+Valores: 
+{"id":"11236"}
+
+[2025-04-17 10:20:14]: removido imóvel 11235 por Gabriel GTA.
+Valores: 
+{"id":"11235"}
+
+[2025-04-17 10:20:22]: removido imóvel 11234 por Gabriel GTA.
+Valores: 
+{"id":"11234"}
+
+[2025-04-17 10:20:30]: removido imóvel 11233 por Gabriel GTA.
+Valores: 
+{"id":"11233"}
+
+[2025-04-17 10:20:41]: removido imóvel 11221 por Gabriel GTA.
+Valores: 
+{"id":"11221"}
+
+[2025-04-17 10:20:48]: removido imóvel 11232 por Gabriel GTA.
+Valores: 
+{"id":"11232"}
+
+[2025-04-17 10:20:54]: removido imóvel 11231 por Gabriel GTA.
+Valores: 
+{"id":"11231"}
+
+[2025-04-17 10:21:05]: removido imóvel 11230 por Gabriel GTA.
+Valores: 
+{"id":"11230"}
+
+[2025-04-17 10:21:12]: removido imóvel 11229 por Gabriel GTA.
+Valores: 
+{"id":"11229"}
+
+[2025-04-17 10:31:17]: removido imóvel 11217 por Gabriel GTA.
+Valores: 
+{"id":"11217"}
+
+[2025-04-17 10:31:24]: removido imóvel 11243 por Gabriel GTA.
+Valores: 
+{"id":"11243"}
+
+[2025-04-17 10:31:36]: removido imóvel 11228 por Gabriel GTA.
+Valores: 
+{"id":"11228"}
+
+[2025-04-17 10:31:43]: removido imóvel 11227 por Gabriel GTA.
+Valores: 
+{"id":"11227"}
+
+[2025-04-17 10:31:50]: removido imóvel 11226 por Gabriel GTA.
+Valores: 
+{"id":"11226"}
+
+[2025-04-17 10:32:37]: removido imóvel 11225 por Gabriel GTA.
+Valores: 
+{"id":"11225"}
+
+[2025-04-17 10:32:44]: removido imóvel 11224 por Gabriel GTA.
+Valores: 
+{"id":"11224"}
+
+[2025-04-17 10:32:50]: removido imóvel 11223 por Gabriel GTA.
+Valores: 
+{"id":"11223"}
+
+[2025-04-17 10:33:08]: removido imóvel 11222 por Gabriel GTA.
+Valores: 
+{"id":"11222"}
+
+[2025-04-17 10:33:14]: removido imóvel 11220 por Gabriel GTA.
+Valores: 
+{"id":"11220"}
+
+[2025-04-17 10:33:22]: removido imóvel 11219 por Gabriel GTA.
+Valores: 
+{"id":"11219"}
+
+[2025-04-17 10:33:35]: removido imóvel 11218 por Gabriel GTA.
+Valores: 
+{"id":"11218"}
+
+[2025-04-17 10:33:41]: removido imóvel 11202 por Gabriel GTA.
+Valores: 
+{"id":"11202"}
+
+[2025-04-17 10:40:59]: criado imóvel 11245 por Gabriel GTA.
+Valores: 
+{"id":"11245","cod":"11245","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"110","cidade":"1","mapa":"","descricao":"","valor":" 100000000.00","valor_a_combinar":0,"destaque":0,"lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-04-17 11:58:47]: criado imóvel 11211 por Gabriel GTA.
+Valores: 
+{"id":"11211","cod":"11211","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"111","cidade":"1","mapa":"","descricao":"","valor":" 10000000.00","valor_a_combinar":0,"destaque":1,"lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"80\":1,\"79\":1,\"50\":1}"}
+
+[2025-04-18 12:20:38]: criado imóvel 11216 por Gabriel GTA.
+Valores: 
+{"id":"11216","cod":"11216","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"4","cidade":"1","mapa":"","descricao":"","valor":" 100000000.00","valor_a_combinar":0,"destaque":1,"lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"86\":1,\"116\":1,\"95\":1,\"23\":1}"}
+
+[2025-04-18 14:31:47]: removido imóvel 11214 por Gabriel GTA.
+Valores: 
+{"id":11214}
+
+[2025-04-18 14:31:55]: removido imóvel 11213 por Gabriel GTA.
+Valores: 
+{"id":11213}
+
+[2025-04-18 14:32:02]: removido imóvel 11212 por Gabriel GTA.
+Valores: 
+{"id":11212}
+
+[2025-04-18 14:32:17]: removido imóvel 11211 por Gabriel GTA.
+Valores: 
+{"id":11211}
+
+[2025-04-18 14:32:59]: removido imóvel 11210 por Gabriel GTA.
+Valores: 
+{"id":11210}
+
+[2025-04-18 15:30:03]: criado imóvel 11219 por Gabriel GTA.
+Valores: 
+{"id":"11219","cod":"11219","tipo":"Aluguel","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"200","cidade":"1","mapa":"","descricao":"","valor":" 1000.00","valor_a_combinar":0,"destaque":0,"lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"95\":1,\"23\":1,\"78\":1,\"65\":1}"}
+
+[2025-04-18 15:38:20]: removido imóvel 11218 por Gabriel GTA.
+Valores: 
+{"id":11218}
+
+[2025-04-18 15:38:27]: removido imóvel 11219 por Gabriel GTA.
+Valores: 
+{"id":11219}
+
+[2025-04-18 15:38:36]: removido imóvel 11217 por Gabriel GTA.
+Valores: 
+{"id":11217}
+
+[2025-04-18 15:39:15]: criado imóvel 11217 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11217.jpg-68029c533473e.webp","ordem":0},{"arquivo":"foto-1-imovel-11217.jpg-68029c5335b06.webp","ordem":1},{"arquivo":"foto-1-imovel-11217.jpg-68029c5336cbd.webp","ordem":2},{"arquivo":"foto-1-imovel-11217.jpg-68029c5337d5b.webp","ordem":3}]
+
+[2025-04-18 15:47:02]: criado imóvel 11218 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11218.jpg-68029e264a9e9.webp","ordem":0},{"arquivo":"foto-1-imovel-11218.jpg-68029e264af25.webp","ordem":1},{"arquivo":"foto-1-imovel-11218.jpg-68029e264b9e9.webp","ordem":2},{"arquivo":"foto-1-imovel-11218.jpg-68029e264c870.webp","ordem":3}]
+
+[2025-04-18 16:08:47]: atualizado imóvel 11218 por Gabriel GTA.
+Valores: 
+{"cod":"11218","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"3","cidade":"1","mapa":"","descricao":"","valor":" 10000.00","valor_a_combinar":0,"destaque":0,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"23\":1,\"78\":1,\"65\":1,\"135\":1,\"66\":1,\"141\":1}"}
+
+[2025-04-18 16:11:25]: criado imóvel 11219 por Gabriel GTA.
+Valores: 
+[]
+
+[2025-04-18 16:11:39]: criado imóvel 11220 por Gabriel GTA.
+Valores: 
+[]
+
+[2025-04-18 16:41:29]: criado imóvel 11222 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11222.jpg-6802aae8c2b39.webp","ordem":0},{"arquivo":"foto-1-imovel-11222.jpg-6802aae901bbb.webp","ordem":1},{"arquivo":"foto-1-imovel-11222.jpg-6802aae926769.webp","ordem":2},{"arquivo":"foto-1-imovel-11222.jpg-6802aae951717.webp","ordem":3}]
+
+[2025-04-18 16:43:30]: removido imóvel 11221 por Gabriel GTA.
+Valores: 
+{"id":11221}
+
+[2025-04-18 16:43:48]: criado imóvel 11223 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11223.jpg-6802ab73d0541.webp","ordem":0},{"arquivo":"foto-1-imovel-11223.jpg-6802ab7406871.webp","ordem":1},{"arquivo":"foto-1-imovel-11223.jpg-6802ab7432c99.webp","ordem":2},{"arquivo":"foto-1-imovel-11223.jpg-6802ab744bed4.webp","ordem":3}]
+
+[2025-04-18 17:05:40]: criado imóvel 11224 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11224.jpg-6802b09357b3e.webp","ordem":0},{"arquivo":"foto-1-imovel-11224.jpg-6802b0937f853.webp","ordem":1},{"arquivo":"foto-1-imovel-11224.jpg-6802b093b1fbc.webp","ordem":2},{"arquivo":"foto-1-imovel-11224.jpg-6802b093e1b94.webp","ordem":3}]
+
+[2025-04-18 17:10:38]: atualizado imóvel 11224 por Gabriel GTA.
+Valores: 
+{"cod":"11224","tipo":"Vendas","categoria":"casa","endereco":"","numero":"","ap":"","sala":"","CEP":"","bairro":"227","cidade":"1","mapa":"","descricao":"","valor":" 1000.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":0,"banheiros":0,"garagem":0,"reservado":0,"caracteristicas":"{\"42\":1,\"130\":1,\"53\":1,\"64\":1,\"89\":1}"}
+
+[2025-04-19 12:06:08]: criado imóvel 11225 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11225.jpg-6803bbd16ff12.webp","ordem":0},{"arquivo":"foto-1-imovel-11225.jpg-6803bbd1a5007.webp","ordem":1},{"arquivo":"foto-1745075153-imovel-11225.webp","ordem":2},{"arquivo":"foto-1-imovel-11225.jpg-6803bbd812bb9.webp","ordem":3},{"arquivo":"foto-1745075160-imovel-11225.webp","ordem":4},{"arquivo":"foto-1-imovel-11225.jpg-6803bbe065a6c.webp","ordem":5}]
+
+[2025-04-19 12:14:08]: removido imóvel 11225 por Gabriel GTA.
+Valores: 
+{"id":11225}
+
+[2025-04-19 12:14:14]: removido imóvel 11224 por Gabriel GTA.
+Valores: 
+{"id":11224}
+
+[2025-04-19 12:14:20]: removido imóvel 11223 por Gabriel GTA.
+Valores: 
+{"id":11223}
+
+[2025-04-19 12:14:26]: removido imóvel 11222 por Gabriel GTA.
+Valores: 
+{"id":11222}
+
+[2025-04-19 12:14:32]: removido imóvel 11220 por Gabriel GTA.
+Valores: 
+{"id":11220}
+
+[2025-04-19 12:14:38]: removido imóvel 11219 por Gabriel GTA.
+Valores: 
+{"id":11219}
+
+[2025-04-19 12:14:44]: removido imóvel 11218 por Gabriel GTA.
+Valores: 
+{"id":11218}
+
+[2025-04-19 12:14:50]: removido imóvel 11217 por Gabriel GTA.
+Valores: 
+{"id":11217}
+
+[2025-04-19 13:27:28]: atualizado imóvel 11202 por Gabriel GTA.
+Valores: 
+{"cod":"11202","tipo":"Vendas","categoria":"casa","endereco":"Rua Professor Francisco Dion\u00edsio","numero":"23","ap":"","sala":"","CEP":"37.006-290","bairro":"31","cidade":"1","mapa":"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d14842.126437477771!2d-45.43971048284929!3d-21.56516268874879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ca9290ad87f9c3%3A0xc2628d84a6411626!2sR.%20Prof.%20Francisco%20Dion%C3%ADsio%2C%2023%20-%20Parque%20Catanduvas%2C%20Varginha%20-%20MG%2C%2037006-290!5e0!3m2!1spt-BR!2sbr!4v1739900283437!5m2!1spt-BR!2sbr","descricao":"02 Quartos, sala, cozinha, banheiro, \u00e1rea de servi\u00e7o e garagem. ","valor":" 1450.00","valor_a_combinar":0,"destaque":1,"foto_destaque":"foto-1739900849-imovel-11202.webp","lancamento":0,"videos":"","ativo":1,"indisponivel":0,"area_construida":0,"area_terreno":0,"fracao_ideal":0,"quartos":2,"banheiros":1,"garagem":1,"reservado":0,"caracteristicas":"{\"51\":1,\"13\":1,\"64\":1,\"89\":1,\"47\":1}"}
+
+[2025-04-20 23:06:09]: criado imóvel 11217 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11217.jpg-6805a804061f0.webp","ordem":0},{"arquivo":"foto-1-imovel-11217.jpg-6805a80442112.webp","ordem":1},{"arquivo":"foto-1745201156-imovel-11217.webp","ordem":2},{"arquivo":"foto-1-imovel-11217.jpg-6805a80a84f5e.webp","ordem":3},{"arquivo":"foto-1745201162-imovel-11217.webp","ordem":4},{"arquivo":"foto-1-imovel-11217.jpg-6805a81140f6f.webp","ordem":5}]
+
+[2025-04-20 23:14:28]: criado imóvel 11218 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11218.jpg-6805a9f665704.webp","ordem":0},{"arquivo":"foto-1-imovel-11218.jpg-6805a9f6961ae.webp","ordem":1},{"arquivo":"foto-1745201654-imovel-11218.webp","ordem":2},{"arquivo":"foto-1-imovel-11218.jpg-6805a9fb84078.webp","ordem":3},{"arquivo":"foto-1745201659-imovel-11218.webp","ordem":4},{"arquivo":"foto-1-imovel-11218.jpg-6805aa03a553b.webp","ordem":5}]
+
+[2025-04-21 01:11:07]: criado imóvel 11219 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11219.jpg-6805c54dbb42a.webp","ordem":0},{"arquivo":"foto-1-imovel-11219.jpg-6805c54df2a85.webp","ordem":1},{"arquivo":"foto-1745208654-imovel-11219.webp","ordem":2},{"arquivo":"foto-1-imovel-11219.jpg-6805c552d59c8.webp","ordem":3},{"arquivo":"foto-1745208659-imovel-11219.webp","ordem":4},{"arquivo":"foto-1-imovel-11219.jpg-6805c55b5aafb.webp","ordem":5}]
+
+[2025-04-21 01:11:58]: removido imóvel 11219 por Gabriel GTA.
+Valores: 
+{"id":11219}
+
+[2025-04-21 01:12:35]: criado imóvel 11219 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11219.jpg-6805c5a61f2e2.webp","ordem":0},{"arquivo":"foto-1-imovel-11219.jpg-6805c5a653369.webp","ordem":1},{"arquivo":"foto-1745208742-imovel-11219.webp","ordem":2},{"arquivo":"foto-1-imovel-11219.jpg-6805c5ab0839f.webp","ordem":3},{"arquivo":"foto-1745208747-imovel-11219.webp","ordem":4},{"arquivo":"foto-1-imovel-11219.jpg-6805c5b359585.webp","ordem":5}]
+
+[2025-04-21 01:22:23]: criado imóvel 11220 por Gabriel GTA.
+Valores: 
+[{"arquivo":"foto-1-imovel-11220.jpg-6805c7f1ee15e.webp","ordem":0},{"arquivo":"foto-1-imovel-11220.jpg-6805c7f22e022.webp","ordem":1},{"arquivo":"foto-1745209330-imovel-11220.webp","ordem":2},{"arquivo":"foto-1-imovel-11220.jpg-6805c7f729a37.webp","ordem":3},{"arquivo":"foto-1745209335-imovel-11220.webp","ordem":4},{"arquivo":"foto-1-imovel-11220.jpg-6805c7ffb3024.webp","ordem":5}]

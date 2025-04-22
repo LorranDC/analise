@@ -1,0 +1,18 @@
+.custom-hero-search {
+     .container-fluid {
+        
+        background-image: url('../images/slider/slide-bg/new-bg.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        
+        
+        
+         .row {
+            height: 100vh;
+           
+            .custom-banner {
+                z-index: -3;
+            }
+        }
+    }
+}

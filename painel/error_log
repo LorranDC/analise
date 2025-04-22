@@ -1,0 +1,281 @@
+[07-Mar-2025 10:05:01 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 10:05:04 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 10:05:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "Source\DB_HOST" in /home2/imob7442/public_html/source/Conexao.php:13
+Stack trace:
+#0 /home2/imob7442/public_html/source/Conexao.php(30): Source\Conexao::conectar()
+#1 /home2/imob7442/public_html/source/Painel/Autenticacao.php(81): Source\Conexao::getDB()
+#2 /home2/imob7442/public_html/painel/index.php(11): Source\Painel\Autenticacao->logarAdm()
+#3 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 13
+[07-Mar-2025 10:05:15 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:16:16 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:16:36 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:16:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "Source\DB_HOST" in /home2/imob7442/public_html/source/Conexao.php:13
+Stack trace:
+#0 /home2/imob7442/public_html/source/Conexao.php(30): Source\Conexao::conectar()
+#1 /home2/imob7442/public_html/source/Painel/Autenticacao.php(81): Source\Conexao::getDB()
+#2 /home2/imob7442/public_html/painel/index.php(11): Source\Painel\Autenticacao->logarAdm()
+#3 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 13
+[07-Mar-2025 17:18:39 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:18:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "Source\DB_HOST" in /home2/imob7442/public_html/source/Conexao.php:13
+Stack trace:
+#0 /home2/imob7442/public_html/source/Conexao.php(30): Source\Conexao::conectar()
+#1 /home2/imob7442/public_html/source/Painel/Autenticacao.php(81): Source\Conexao::getDB()
+#2 /home2/imob7442/public_html/painel/index.php(11): Source\Painel\Autenticacao->logarAdm()
+#3 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 13
+[07-Mar-2025 17:18:42 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:18:47 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:18:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "Source\DB_HOST" in /home2/imob7442/public_html/source/Conexao.php:13
+Stack trace:
+#0 /home2/imob7442/public_html/source/Conexao.php(30): Source\Conexao::conectar()
+#1 /home2/imob7442/public_html/source/Painel/Autenticacao.php(81): Source\Conexao::getDB()
+#2 /home2/imob7442/public_html/painel/index.php(11): Source\Painel\Autenticacao->logarAdm()
+#3 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 13
+[07-Mar-2025 17:22:14 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:22:38 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:22:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "Source\DB_HOST" in /home2/imob7442/public_html/source/Conexao.php:13
+Stack trace:
+#0 /home2/imob7442/public_html/source/Conexao.php(30): Source\Conexao::conectar()
+#1 /home2/imob7442/public_html/source/Painel/Autenticacao.php(81): Source\Conexao::getDB()
+#2 /home2/imob7442/public_html/painel/index.php(11): Source\Painel\Autenticacao->logarAdm()
+#3 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 13
+[07-Mar-2025 17:25:55 America/Fortaleza] PHP Warning:  require_once(/home2/imob7442/public_html/painel/../../config.php): Failed to open stream: No such file or directory in /home2/imob7442/public_html/painel/index.php on line 8
+[07-Mar-2025 17:25:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/imob7442/public_html/painel/../../config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/imob7442/public_html/painel/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/imob7442/public_html/painel/index.php on line 8
+[07-Mar-2025 17:26:19 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:26:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "Source\DB_HOST" in /home2/imob7442/public_html/source/Conexao.php:13
+Stack trace:
+#0 /home2/imob7442/public_html/source/Conexao.php(30): Source\Conexao::conectar()
+#1 /home2/imob7442/public_html/source/Painel/Autenticacao.php(81): Source\Conexao::getDB()
+#2 /home2/imob7442/public_html/painel/index.php(11): Source\Painel\Autenticacao->logarAdm()
+#3 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 13
+[07-Mar-2025 17:26:50 America/Fortaleza] PHP Warning:  require(/../../config.php): Failed to open stream: No such file or directory in /home2/imob7442/public_html/painel/index.php on line 8
+[07-Mar-2025 17:26:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/../../config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/imob7442/public_html/painel/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/imob7442/public_html/painel/index.php on line 8
+[07-Mar-2025 17:29:59 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:29:59 America/Fortaleza] PHP Warning:  require_once(/home2/imob7442/public_html/source/../config/Config.php): Failed to open stream: No such file or directory in /home2/imob7442/public_html/source/Conexao.php on line 5
+[07-Mar-2025 17:29:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/imob7442/public_html/source/../config/Config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/imob7442/public_html/source/Conexao.php:5
+Stack trace:
+#0 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(576): include()
+#1 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home2/imob7442...')
+#2 /home2/imob7442/public_html/source/Painel/Autenticacao.php(8): Composer\Autoload\ClassLoader->loadClass('Source\\Conexao')
+#3 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(576): include('/home2/imob7442...')
+#4 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home2/imob7442...')
+#5 /home2/imob7442/public_html/painel/index.php(10): Composer\Autoload\ClassLoader->loadClass('Source\\Painel\\A...')
+#6 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 5
+[07-Mar-2025 17:30:20 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:50:26 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:50:26 America/Fortaleza] PHP Warning:  require_once(/home2/imob7442/public_html/source/../config/Config.php): Failed to open stream: No such file or directory in /home2/imob7442/public_html/source/Conexao.php on line 6
+[07-Mar-2025 17:50:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/imob7442/public_html/source/../config/Config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/imob7442/public_html/source/Conexao.php:6
+Stack trace:
+#0 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(576): include()
+#1 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home2/imob7442...')
+#2 /home2/imob7442/public_html/source/Painel/Autenticacao.php(8): Composer\Autoload\ClassLoader->loadClass('Source\\Conexao')
+#3 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(576): include('/home2/imob7442...')
+#4 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home2/imob7442...')
+#5 /home2/imob7442/public_html/painel/index.php(10): Composer\Autoload\ClassLoader->loadClass('Source\\Painel\\A...')
+#6 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 6
+[07-Mar-2025 17:50:44 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 17:50:44 America/Fortaleza] PHP Warning:  require(/../config/Config.php): Failed to open stream: No such file or directory in /home2/imob7442/public_html/source/Conexao.php on line 6
+[07-Mar-2025 17:50:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/../config/Config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/imob7442/public_html/source/Conexao.php:6
+Stack trace:
+#0 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(576): include()
+#1 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home2/imob7442...')
+#2 /home2/imob7442/public_html/source/Painel/Autenticacao.php(8): Composer\Autoload\ClassLoader->loadClass('Source\\Conexao')
+#3 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(576): include('/home2/imob7442...')
+#4 /home2/imob7442/public_html/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home2/imob7442...')
+#5 /home2/imob7442/public_html/painel/index.php(10): Composer\Autoload\ClassLoader->loadClass('Source\\Painel\\A...')
+#6 {main}
+  thrown in /home2/imob7442/public_html/source/Conexao.php on line 6
+[07-Mar-2025 17:50:55 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[07-Mar-2025 18:01:57 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[08-Mar-2025 10:22:11 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[08-Mar-2025 10:22:29 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[10-Mar-2025 07:55:35 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[10-Mar-2025 09:28:52 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[10-Mar-2025 09:29:32 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[10-Mar-2025 11:17:34 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[10-Mar-2025 16:52:57 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[10-Mar-2025 16:52:57 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[10-Mar-2025 16:53:29 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 07:58:55 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 08:00:42 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 08:45:00 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 08:45:21 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 08:46:12 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 09:11:32 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 09:11:56 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 09:34:28 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 09:47:15 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 09:55:38 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 09:55:49 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:04:43 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:10:26 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:13:49 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:35:04 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:35:25 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:35:29 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:35:43 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:40:14 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:41:47 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:46:15 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 10:56:30 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:03:14 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:16:08 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:16:19 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:16:37 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:19:36 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:20:50 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:24:43 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:28:17 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:32:17 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:36:17 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:55:21 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:55:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:56:08 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 11:58:31 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 12:01:47 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 12:06:57 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 12:18:30 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 12:48:36 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 12:52:02 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 12:54:38 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 12:59:39 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:00:50 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:04:41 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:07:00 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:07:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:08:58 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:17:40 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:18:55 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:21:33 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:26:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:29:06 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:29:11 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:35:43 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:36:14 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 13:47:24 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 14:34:39 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 14:34:52 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 14:37:48 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 14:44:14 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 14:50:32 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 14:50:48 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 14:53:28 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 15:05:13 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 15:05:21 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 15:12:29 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 15:12:54 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 15:25:12 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 15:25:17 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 15:25:23 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 15:38:56 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 16:24:59 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 16:39:33 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 16:39:55 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 16:40:23 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 16:48:11 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 16:48:11 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 16:48:15 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 18:39:43 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 18:39:43 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 18:39:47 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 19:54:55 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[11-Mar-2025 19:54:59 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 08:01:55 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 08:24:19 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 08:24:38 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 09:10:13 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 09:10:17 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 09:48:51 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 09:49:36 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 10:43:58 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 10:44:26 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 11:30:52 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 11:37:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 12:28:23 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 12:39:56 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 13:46:50 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 13:47:02 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 13:50:33 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 13:53:13 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 13:57:46 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 15:13:13 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 15:13:33 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 16:12:59 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 16:13:13 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 16:51:56 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 16:52:19 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 17:24:33 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 17:24:47 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 17:34:26 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 17:34:38 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[12-Mar-2025 17:43:31 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 07:56:11 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 09:08:33 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 09:08:44 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 09:41:10 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 10:27:58 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 10:28:03 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 10:28:09 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 10:54:40 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 10:55:13 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 10:56:36 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 10:56:52 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 13:37:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 13:37:54 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 14:37:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 14:37:54 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 14:57:18 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[13-Mar-2025 14:57:35 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 07:55:33 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 09:44:24 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 10:58:10 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 11:16:43 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 11:16:44 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 11:19:41 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 11:42:44 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 13:11:00 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 13:35:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 13:36:06 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 16:15:18 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 16:15:19 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[14-Mar-2025 16:15:41 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 07:57:35 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 09:15:08 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 09:15:11 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 09:24:24 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 09:24:25 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 09:24:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 09:31:29 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 11:08:09 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 11:08:29 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 11:50:22 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 11:50:43 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 13:45:37 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 13:45:37 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 13:45:55 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 14:20:45 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 15:49:20 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 15:49:31 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 15:49:48 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 16:43:44 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 16:43:53 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 16:49:24 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 16:49:47 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 17:02:17 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 17:02:34 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 17:34:16 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[17-Mar-2025 17:34:40 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php
+[18-Mar-2025 08:00:11 America/Fortaleza] Erro: Arquivo de configuração não encontrado em config/config.php

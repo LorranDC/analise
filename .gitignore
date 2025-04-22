@@ -1,0 +1,13 @@
+# Ignora as Classes Config e Conexao, para que as configurações do servidor local
+# não entrem em conflito com as configurações do servidor remoto.
+
+
+vendor/
+
+
+sitemap.xml
+assets/images/properties-test/
+assets/images/properties/
+assets/images/
+assets/imoveis
+node_modules/

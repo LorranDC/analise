@@ -1,0 +1,41 @@
+/* General Header Styles */
+.header {
+    background: #fff;
+    padding: 10px 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+/* Limit Logo Size */
+.logo {
+    max-height: 60px;
+}
+
+/* Center Navbar */
+.navbar-nav {
+    display: flex;
+    gap: 15px;
+}
+
+/* Navbar Links */
+.navbar-nav .nav-link {
+    font-weight: 600;
+    color: #333;
+    transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: red;
+}
+
+/* WhatsApp Contact Styling */
+.contact-info {
+    font-size: 14px;
+    color: #333;
+    text-align: right;
+}
+
+.contact-info i {
+    color: #25D366;
+    margin-right: 5px;
+}
